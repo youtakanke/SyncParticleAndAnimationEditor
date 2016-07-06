@@ -8,6 +8,7 @@ Unity Editor非再生時に、ParticleSystem(shuriken)とAnimationClipを同時�
 - Time Line　のsliderを動かします。
 - sliderのvalueに応じてAnimationClipとParticleSystemがvalue時間でsimulateされます。
 - animation clip number を変えることで、simulateするAnimationClipを変更できます。
+  
 |ParticleSystem|Animator or Animation|
 |---|---|
 |![sample.png](./image/psSample.gif)|![sample.png](./image/clipSample.gif)|
